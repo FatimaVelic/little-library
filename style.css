@@ -70,7 +70,7 @@ Purpuse:		This stylesheet is designed
 /* Index */
 #main
 {
-	background-image: url("back_home.jpeg"); 
+	background-image: url("img/back_home.jpeg"); 
 	background-repeat: no-repeat;
   	background-attachment: fixed; 
   	background-size: 100%;
